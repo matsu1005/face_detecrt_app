@@ -43,7 +43,7 @@ def post():
       img_path = os.path.join(UPLOAD_FOLDER, secure_filename(f.filename))
       f.save(img_path)
       # eval.pyへアップロードされた画像を渡す
-      result = eval.evaluation(img_path, './training_3/cp-0020.ckpt')
+      result = eval.evaluation(img_path, './training_3/cp-0015.ckpt')
     else:
       result = []
     return render_template('index.html', result=result)
