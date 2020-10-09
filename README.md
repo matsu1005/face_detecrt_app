@@ -4,8 +4,8 @@
 
 ### 概要
  kerasを使って畳み込みニューラルネットワークを構築し、約各人200枚の画像をモデルに学習。<br>
- 顔の検出にはOpenCVを使用した。
- 
+ 顔の検出にはOpenCVを使用した。<br>
+ アプリケーションはflaskを使って作成した。 
 
 ![2bde2233bb17a1aa853db82dcd3d0c3f](https://user-images.githubusercontent.com/55049751/95536250-88325600-0a25-11eb-83b7-ccaffe139bcc.gif)
 
