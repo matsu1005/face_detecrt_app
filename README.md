@@ -3,12 +3,12 @@
 ### マークザッカーバーグ、ビルゲイツ、スティーブ・ジョブズの３人を識別するアプリケーションを作成
 
 ### 概要
- kerasを使って畳み込みニューラルネットワークを構築し、約各人200枚の画像をモデルに学習。<br>
+ kerasを使って畳み込みニューラルネットワークを構築し、各人約200枚の画像をモデルに学習。<br>
  顔の検出にはOpenCVを使用した。<br>
- アプリケーションはflaskを使って作成した。 
+ アプリケーションはflaskを使って作成した。
+ 
+ ---
 
 ![2bde2233bb17a1aa853db82dcd3d0c3f](https://user-images.githubusercontent.com/55049751/95536250-88325600-0a25-11eb-83b7-ccaffe139bcc.gif)
 
-
-
-<img width="600" alt="スクリーンショット 2020-09-28 14 11 18" src="https://user-images.githubusercontent.com/55049751/94392867-84384580-0194-11eb-9a45-9fefa01f0e42.png">
+![23ff8a4135c388ca964a961da0260266](https://user-images.githubusercontent.com/55049751/95536694-8fa62f00-0a26-11eb-8525-a2e3c456c7c8.gif)
