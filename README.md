@@ -7,6 +7,8 @@
  顔の検出にはOpenCVを使用した。
  
 
-<img width="600" alt="スクリーンショット 2020-09-28 14 00 46" src="https://user-images.githubusercontent.com/55049751/94392464-4d156480-0193-11eb-8834-49b58d21ed79.png">
+![2bde2233bb17a1aa853db82dcd3d0c3f](https://user-images.githubusercontent.com/55049751/95536250-88325600-0a25-11eb-83b7-ccaffe139bcc.gif)
+
+
 
 <img width="600" alt="スクリーンショット 2020-09-28 14 11 18" src="https://user-images.githubusercontent.com/55049751/94392867-84384580-0194-11eb-9a45-9fefa01f0e42.png">
