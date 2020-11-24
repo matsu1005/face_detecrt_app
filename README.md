@@ -8,14 +8,21 @@
  アプリケーションはflaskを使って作成した。
  
  ---
+ <br>
+ <br>
+ <br>
+ <br>
 
 ![2bde2233bb17a1aa853db82dcd3d0c3f](https://user-images.githubusercontent.com/55049751/95536250-88325600-0a25-11eb-83b7-ccaffe139bcc.gif)
 
-
-
+<br>
+<br>
+<br>
+<br>
 ---
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ![23ff8a4135c388ca964a961da0260266](https://user-images.githubusercontent.com/55049751/95536694-8fa62f00-0a26-11eb-8525-a2e3c456c7c8.gif)
